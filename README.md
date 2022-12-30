@@ -34,15 +34,15 @@ si lo datos son cargados correctamente va a obtener un mensaje:
 
 #####Login:
 
-![login](a "login")](https://i.ibb.co/hHvy01W/Opera-Instant-nea-2022-12-30-095434-localhost.png "login")
+![](https://i.ibb.co/hHvy01W/Opera-Instant-nea-2022-12-30-095434-localhost.png "login")
 
 #####Form Elections:
-![frm Election](frm Election "frm Election")](https://i.ibb.co/hRXV3QX/Opera-Instant-nea-2022-12-30-095924-localhost.png "frm Election")
+![](https://i.ibb.co/hRXV3QX/Opera-Instant-nea-2022-12-30-095924-localhost.png "frm Election")
 
 ######Cuenta con una grafica que representa el conteo de votaciones por año y por partido.
 
 #####Chart Elections:
-![chart](chart "chart")](https://i.ibb.co/2tfBZdC/Opera-Instant-nea-2022-12-30-100515-localhost.png "chart")
+![](https://i.ibb.co/2tfBZdC/Opera-Instant-nea-2022-12-30-100515-localhost.png "chart")
 
 ![](https://i.ibb.co/vkpRvGf/Imanku-Colombia.png)
 
