@@ -1,0 +1,15 @@
+.boton:hover {
+    transform: scale(1.2);
+    background-color: #13A297 !important;
+    border-color: #fff !important;
+    transition: transform 0.5s;
+}
+
+.background {
+    background:  url(https://i.ibb.co/QDhSh7T/5b26790394d84.jpg) no-repeat;
+    -webkit-backdrop-filter:blur(5px);
+    backdrop-filter:blur(5px); 
+    background-size: cover;
+    position: relative;
+
+}
