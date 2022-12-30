@@ -6,6 +6,7 @@ Requisitos de instalacion para uso del aplicativo:
 2. El directorio de la aplicación debe ubicarse en la ruta del entorno local:
   - Ejemplo : C:\xampp\htdocs\Imanku
 3. Crear la base de datos SQL:
+ - El diseño y script de la base de datos se encuentra en <abbr title="Hyper Text Markup Language">Script Sql</abbr> 
  - Desplegar el siguiente script:
 ELECTIONS.SLQ - Base de datos: elections.
 
