@@ -30,18 +30,18 @@ si lo datos son cargados correctamente va a obtener un mensaje:
 "Inserted 46689 records successfully"
 
 # System Elections
-######El sistema de elecciones cuenta con un login para el ingreso del coordinador de votaciones. Si el login es válido, el coordinador será redirigido al formulario de Election que se utiliza para registrar los datos de las votaciones.
+###### El sistema de elecciones cuenta con un login para el ingreso del coordinador de votaciones. Si el login es válido, el coordinador será redirigido al formulario de Election que se utiliza para registrar los datos de las votaciones.
 
-#####Login:
+### Login:
 
 ![](https://i.ibb.co/hHvy01W/Opera-Instant-nea-2022-12-30-095434-localhost.png "login")
 
-#####Form Elections:
+#### Form Elections:
 ![](https://i.ibb.co/hRXV3QX/Opera-Instant-nea-2022-12-30-095924-localhost.png "frm Election")
 
-######Cuenta con una grafica que representa el conteo de votaciones por año y por partido.
+#### Cuenta con una grafica que representa el conteo de votaciones por año y por partido.
 
-#####Chart Elections:
+### Chart Elections:
 ![](https://i.ibb.co/2tfBZdC/Opera-Instant-nea-2022-12-30-100515-localhost.png "chart")
 
 ![](https://i.ibb.co/vkpRvGf/Imanku-Colombia.png)
